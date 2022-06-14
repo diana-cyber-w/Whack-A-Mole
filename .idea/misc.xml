@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable-v24/ic__result.xml" value="0.2" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.119" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable/ic__.xml" value="0.1175" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable/ic__back.xml" value="0.1" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable/ic__game.xml" value="0.264" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable/ic__play.xml" value="0.1175" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable/ic__score.xml" value="0.1175" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1755" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1755" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.1755" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable/ic_baseline_timer_24.xml" value="0.119" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable/ic_circle_outline_svgrepo_com.xml" value="0.119" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable/ic_download_icon_cup_sports_winner_icon_1320195818144756764_0.xml" value="0.1755" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable/ic_google_noto_emoji_people_clothing_objects_12170_hole.xml" value="0.119" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable/ic_gopher_arcade_free_vector.xml" value="0.2" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable/ic_kisscc0_our_saviour_s_lutheran_church_farm_agricultural_la_landscape_with_red_farm_5b267f6573d149_4673884815292496374744.xml" value="0.12" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable/ic_launcher_background.xml" value="0.119" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable/ic_mole_svgrepo_com.xml" value="0.119" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/drawable/ic_up__2_.xml" value="0.1" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/layout/game_layout.xml" value="0.2" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/layout/result_layout.xml" value="0.264" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/WhacAMole/app/src/main/res/layout/start_layout.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

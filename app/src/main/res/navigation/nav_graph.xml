@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/startFragment">
+    <fragment
+        android:id="@+id/resultFragment"
+        android:name="com.example.whac_a_mole.presentation.fragments.ResultFragment"
+        android:label="ResultFragment"
+        tools:layout="@layout/result_layout">
+        <action
+            android:id="@+id/toReplay"
+            app:destination="@id/gameFragment"
+            app:enterAnim="@anim/slide_in_animation"
+            app:exitAnim="@anim/fade_out_animation" />
+        <action
+            android:id="@+id/toMenu"
+            app:destination="@id/startFragment"
+            app:enterAnim="@anim/slide_in_animation"
+            app:exitAnim="@anim/fade_out_animation" />
+    </fragment>
+    <fragment
+        android:id="@+id/startFragment"
+        android:name="com.example.whac_a_mole.presentation.fragments.StartFragment"
+        android:label="ResultFragment"
+        tools:layout="@layout/result_layout">
+        <action
+            android:id="@+id/toPlay"
+            app:destination="@id/gameFragment"
+            app:enterAnim="@anim/slide_in_animation"
+            app:exitAnim="@anim/fade_out_animation" />
+    </fragment>
+    <fragment
+        android:id="@+id/gameFragment"
+        android:name="com.example.whac_a_mole.presentation.fragments.GameFragment"
+        android:label="GameFragment"
+        tools:layout="@layout/game_layout">
+        <action
+            android:id="@+id/toResults"
+            app:destination="@id/resultFragment"
+            app:enterAnim="@anim/slide_in_animation"
+            app:exitAnim="@anim/fade_out_animation" />
+    </fragment>
+</navigation>
